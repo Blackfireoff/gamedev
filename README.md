@@ -1,2 +1,2 @@
 # gamedev
-This is a repositoy for a 1D game
+This is a repository for a 1D game
